@@ -6,9 +6,6 @@ The second project, carried out within the scope of the Parallel and Distributed
 To be able to test key-value storage, it was necessary to develop a TestClient. Essentially, what this should allow you to do is invoke any of the membership events (join or leave), as well as invoke any of the operations on key-value pairs (put (saves file in the system), get (reads system file ) and delete (deletes file from the system)).
 The Java programming language was used.
 
-
-Group members:
-
-1. Tomás Gonçalves	 up201806763@edu.fe.up.pt	
-2. Alexandra Ferreira 	up201806784@edu.fe.up.pt
-3. Vasco Teixeira	up201802112@edu.fe.up.pt
+- Tomás Gonçalves	 
+- Alexandra Ferreira 	
+- Vasco Teixeira	
